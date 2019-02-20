@@ -35,8 +35,12 @@ This happens due to induction. Lets use transformer for example. A normal transf
 
  
 **Final circuits**
+![](https://user-images.githubusercontent.com/47625569/53072038-449f7700-34e4-11e9-9095-3a48fd2dd2c6.png)
 
+Light detection: 
 
+![](https://user-images.githubusercontent.com/47625569/53072063-5254fc80-34e4-11e9-9e30-12c07385e06b.png)
 
+Proximity sensor:
 
-Software
+![](https://user-images.githubusercontent.com/47625569/53072077-5aad3780-34e4-11e9-8466-6da6bac48a69.png)
