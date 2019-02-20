@@ -41,6 +41,10 @@ Light detection:
 
 ![](https://user-images.githubusercontent.com/47625569/53072063-5254fc80-34e4-11e9-9e30-12c07385e06b.png)
 
+Wireless power transmission:
+
+![](https://user-images.githubusercontent.com/47625569/53072293-09ea0e80-34e5-11e9-9029-4eeae24d57dc.png)
+
 Proximity sensor:
 
 ![](https://user-images.githubusercontent.com/47625569/53072077-5aad3780-34e4-11e9-8466-6da6bac48a69.png)
