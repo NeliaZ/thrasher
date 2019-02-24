@@ -1,5 +1,8 @@
 # MITKa (Material Identifying Trash Can)
 
+### OVERVIEW
+MITKa is a system to sort automatically different types of materials in trash cans. This is done by placing identifying tags on the materials so that the sensors inside the trash can activate a mechanical arm to place them in their right places.
+
 ### WHY DO WE NEED MITKa?
 40% of people in the world die because of environmental pollution, namely water, soil and air. According to scientists, in the territory of 20 national parks of the United States there are at least 70 varieties of toxic substances. The pollution of the planet reduces the life of each person by 10 years and that number continues to increase.
 scientists say that because of different factors, we have to live on earth for about 100 years, one of them is non-recycling and wasting.
