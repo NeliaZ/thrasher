@@ -17,9 +17,9 @@ MITKa it is an easier way of recycling. You just put your waste in a bin and MIT
 
 The basis of our product is not only the bin (it can be made from any available material in any country), but a cooper wire. For this installation you need:
 * 2 coils with a wire length of about 5 meters. Coil diameter - 3 cm, number of turns - 30.
-* Also resistors:
-* transistors:
-* LED:
+* Resistors: 1kOm, 306E
+* transistors: 2N3904 (2)
+* LEDs:
 * wires and board
 
 **HOW DOES IT WORK?**
