@@ -1,4 +1,4 @@
-# MITKa (material identifying thrash can)
+# MITKa (Material Identifying Trash Can)
 
 ### WHY DO WE NEED MITKa?
 40% of people in the world die because of environmental pollution, namely water, soil and air. According to scientists, in the territory of 20 national parks of the United States there are at least 70 varieties of toxic substances. The pollution of the planet reduces the life of each person by 10 years and that number continues to increase.
@@ -15,7 +15,7 @@ MITKa it is an easier way of recycling. You just put your waste in a bin and MIT
 
 **MATERIALS NEEDED**
 
-The basis of our product is not only the bin (it can be made from any available material in any country), but a cooper wire. For this installation you need:
+The basis of our product is not only the bin (it can be made from any available material in any country), but a copper wire. For this installation you need:
 * 2 coils with a wire length of about 5 meters. Coil diameter - 3 cm, number of turns - 30.
 * Resistors: 1kOm, 306E
 * transistors: 2N3904 (2)
@@ -30,7 +30,7 @@ the principle of work is based on induction. Receiver coil should be putted in w
        
 **How does it light up the L.E.D at a distance?**
 
-This happens due to induction. Lets use transformer for example. A normal transformer has a core with wires on either side. Lets suppose the wire on each side of the transformer is equal in amount. When electricity is passed through one coil, the coil becomes an electromagnet. If the electricity is oscillating voltage, that means the voltage would keep rising and dropping. So when an oscillating electricity is passed through the coil, the wire gains properties of electromagnet and then again loses electromagnetism when the voltage drops. A coil of wire becoming electromagnet and then losing its electromagnetic characteristics really fast is just like a magnet moving really fast in and out of the second coil. And when you pass a magnet really fast through coil of wires, you produce electricity, so the oscillating voltage in one coil on the transformer, induces electricity in the other coil of wire, and thus wirelessly electricity is transferred from one coil to the other. In our circuit, the air is the core, and there is oscillating voltage going through the first coil, so you induce A.C electricity in the second coil and light up the bulb!
+This happens due to induction. Let's use a transformer for example. A normal transformer has a core with wires on either sides. Let's suppose the wire on each side of the transformer is equal in amount. When electricity is passed through one coil, the coil becomes an electromagnet. If the electricity is oscillating voltage, that means the voltage would keep rising and dropping. So when an oscillating electricity is passed through the coil, the wire gains properties of electromagnet and then again loses electromagnetism when the voltage drops. A coil of wire becoming electromagnet and then losing its electromagnetic characteristics really fast is just like a magnet moving really fast in and out of the second coil. And when you pass a magnet really fast through coil of wires, you produce electricity, so the oscillating voltage in one coil on the transformer, induces electricity in the other coil of wire, and thus wirelessly electricity is transferred from one coil to the other. In our circuit, the air is the core, and there is oscillating voltage going through the first coil, so you induce A.C electricity in the second coil and light up the bulb!
 
 
  
