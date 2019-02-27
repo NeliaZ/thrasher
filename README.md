@@ -19,11 +19,32 @@ MITKa it is an easier way of recycling. You just put your waste in a bin and MIT
 **MATERIALS NEEDED**
 
 The basis of our product is not only the bin (it can be made from any available material in any country), but a copper wire. For this installation you need:
-* 2 coils with a wire length of about 5 meters. Coil diameter - 3 cm, number of turns - 30.
-* Resistors: 1kOm, 306E
-* transistors: 2N3904 (2)
-* LEDs:
-* wires and board
+
+
+For power transmission:
+* 2 coils with a wire length of about 5 meters. Coil diameter - 3 mm, number of turns - 30.
+* Resistors: 1kOhm
+* BJT transistors: 2N3904
+* Keyes SR1y Relay module circuit
+* 3V battery (1.5v *2)
+* LEDs of different colors.
+
+Sensors & Servo Motors (separator) :
+* Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor
+* Servo motor *2 (depends on the number of different materials)
+
+Microcontroller : 
+* Arduino
+* 9V battery
+
+For display : (optional)
+* LEDs of different colors
+* 10kOhm potentiometer 306E 
+* LCD display
+
+Others :
+* Wires and breadboard
+
 
 **HOW DOES IT WORK?**
 the principle of work is based on induction. Receiver coil should be putted in waste material (plastic bottle for example) The simplest and the first scheme that can be introduced:
@@ -31,7 +52,7 @@ the principle of work is based on induction. Receiver coil should be putted in w
 ![](https://user-images.githubusercontent.com/44177829/53070845-b37ad100-34e0-11e9-8a45-f937d4a8b4f0.png)
 ![](https://user-images.githubusercontent.com/44177829/53070889-d311f980-34e0-11e9-9f47-8e93c5861840.png)
        
-**How does it light up the L.E.D at a distance?**
+**How does it light up the LED at a distance?**
 
 This happens due to induction. Let's use a transformer for example. A normal transformer has a core with wires on either sides. Let's suppose the wire on each side of the transformer is equal in amount. When electricity is passed through one coil, the coil becomes an electromagnet. If the electricity is oscillating voltage, that means the voltage would keep rising and dropping. So when an oscillating electricity is passed through the coil, the wire gains properties of electromagnet and then again loses electromagnetism when the voltage drops. A coil of wire becoming electromagnet and then losing its electromagnetic characteristics really fast is just like a magnet moving really fast in and out of the second coil. And when you pass a magnet really fast through coil of wires, you produce electricity, so the oscillating voltage in one coil on the transformer, induces electricity in the other coil of wire, and thus wirelessly electricity is transferred from one coil to the other. In our circuit, the air is the core, and there is oscillating voltage going through the first coil, so you induce A.C electricity in the second coil and light up the bulb!
 
